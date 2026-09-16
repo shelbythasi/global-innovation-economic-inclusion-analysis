@@ -54,3 +54,8 @@ Interactive Tableau dashboards were developed to compare economic strength, inno
 - Countries with lower gender inequality generally showed higher levels of innovation investment.
 - Female inclusion varied significantly across labor participation, leadership representation, and legal frameworks.
 - Innovation and inclusion appeared interconnected, although country-specific economic and structural factors remained important.
+
+## Project Files
+- [Final Report](report/global-innovation-economic-inclusion-report.pdf)
+- [Tableau Dashboard Workbook](tableau/global-innovation-economic-inclusion-dashboard.twbx)
+- [Tableau Prep Flow](tableau/global-innovation-economic-inclusion-prep-flow.tflx)
