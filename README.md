@@ -35,6 +35,20 @@ The analysis combines indicators including:
 
 Interactive Tableau dashboards were developed to compare economic strength, innovation investment, innovation efficiency, and workforce inclusion across countries.
 
+## Dashboard Highlights
+
+### Innovation Dashboard
+![Innovation Dashboard](images/innovation-dashboard.png)
+
+### Inclusion Dashboard
+![Inclusion Dashboard](images/inclusion-dashboard.png)
+
+### Innovation, Prosperity & Inclusivity
+![Combined Analysis](images/innovation-inclusion-combined-analysis.png)
+
+### Tableau Prep Workflow
+![Tableau Prep Workflow](images/tableau-prep-workflow.png)
+
 ## Key Findings
 - Higher economic strength did not always translate into greater R&D investment, highlighting differences in national innovation strategies.
 - Countries with lower gender inequality generally showed higher levels of innovation investment.
